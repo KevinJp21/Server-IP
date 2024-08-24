@@ -11,7 +11,7 @@ Este proyecto es una aplicación de servidor simple que devuelve la dirección I
 
 1. Clona el repositorio:
    ```bash
-   git clone (https://github.com/KevinJp21/Server-IP.git)
+   git clone https://github.com/KevinJp21/Server-IP.git
    cd Server-IP
    ```
 
