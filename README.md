@@ -44,11 +44,6 @@ Devuelve la dirección IP del cliente.
   "ip": "127.0.0.1"
 }
 ```
-
-## Despliegue en Vercel
-
-Este proyecto está configurado para desplegarse en Vercel. El archivo `vercel.json` define la configuración de despliegue.
-
 ## Dependencias
 
 - express
